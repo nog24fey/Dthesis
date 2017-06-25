@@ -1,2 +1,3 @@
-theme: moon
-slide-number: true
+theme : black
+slide-number : true
+mathjax : TeX-MML-AM_HTML
