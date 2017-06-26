@@ -5,14 +5,14 @@
 <h3 style="text-align : right">相関基礎科学系</h3>
 <h3 style="text-align : right">野口　裕信</h3>
 ---
-### test markdown
+## test markdown
 ***
  * aaa
  * bbb
    * ccc
 ---
 ####数式の記入
-
+***
 $$1+1=2$$
 $$\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}$$
 
