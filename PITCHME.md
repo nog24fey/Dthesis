@@ -1,9 +1,9 @@
 # 博士論文
 ***
 <h3 style="text-align : right">総合文化研究科</h3>
-### 野口　裕信
-### aaaa
-これは練習.
+<h3 style="text-align : right">広域科学専攻</h3>
+<h3 style="text-align : right">相関基礎科学系</h3>
+<h3 style="text-align : right">野口　裕信</h3>
 ---
 ### test markdown
 ***
