@@ -5,7 +5,11 @@
 .reveal .slides h1 {
     text-align :center;
     font-size : 48px;
-    color : #FFFFFF;
+}
+
+.reveal .slides h2 {
+    text-align :center;
+    font-size : 42px;
 }
 
 .reveal .slides h3 {
@@ -13,7 +17,7 @@
     font-size : 28px;
 }
 
-.reveal .slides span.rightp {
+.reveal .slides .rightp {
     text-align : right;
     font-size : 28px;
 }
