@@ -1,8 +1,14 @@
 .reveal .slides {
-    text-align : left;
+
 }
 
 .reveal .slides h1 {
+    text-align :center;
     font-size : 36px;
     color : #000000;
+}
+
+.reveal .slides p {
+    text-align : left;
+    font-size : 28px;
 }
