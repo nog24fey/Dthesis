@@ -1,5 +1,6 @@
 # 博士論文
-###<span class="right">総合文化研究科</span>
+***
+###<span class="rightp">総合文化研究科</span>
 ### 野口　裕信
 ### aaaa
 これは練習.
