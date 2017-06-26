@@ -1,3 +1,7 @@
 .reveal .slides {
     text-align : left;
 }
+
+.reveal h1 {
+    color : #333333;
+}
